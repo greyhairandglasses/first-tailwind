@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/first-tailwind/static/css/main.95f5ad11.css",
+    "main.js": "/first-tailwind/static/js/main.18d8af7b.js",
+    "static/js/787.bb3ac0fe.chunk.js": "/first-tailwind/static/js/787.bb3ac0fe.chunk.js",
+    "static/media/halongbay.jpg": "/first-tailwind/static/media/halongbay.72bab97c2900293420f6.jpg",
+    "static/media/cablecar.jpg": "/first-tailwind/static/media/cablecar.2d5cd985a47d744c0bcf.jpg",
+    "static/media/boat.jpg": "/first-tailwind/static/media/boat.ff6fe4efbee980d658e8.jpg",
+    "static/media/head.jpg": "/first-tailwind/static/media/head.7fcb3d7b91127aa0b64f.jpg",
+    "static/media/DJI_0091.jpg": "/first-tailwind/static/media/DJI_0091.d834b57597867c181111.jpg",
+    "index.html": "/first-tailwind/index.html",
+    "main.95f5ad11.css.map": "/first-tailwind/static/css/main.95f5ad11.css.map",
+    "main.18d8af7b.js.map": "/first-tailwind/static/js/main.18d8af7b.js.map",
+    "787.bb3ac0fe.chunk.js.map": "/first-tailwind/static/js/787.bb3ac0fe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.95f5ad11.css",
+    "static/js/main.18d8af7b.js"
+  ]
+}
